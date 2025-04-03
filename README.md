@@ -34,13 +34,13 @@
 
 ## 🎮 Como Usar
 **Ativação**
-1. *Mantenha a tecla* **Z** *pressionada para ativar os chutes automáticos*
+- *Mantenha a tecla* **Z** *pressionada para ativar os chutes automáticos*
 
 **Desativação**
-2. *Solte* **Z** *para parar os chutes*
+ - *Solte* **Z** *para parar os chutes*
 
 **Personalização**
-3. Ajuste o intervalo no código (valor em milissegundos, `let timer`):
+ - Ajuste o intervalo no código (valor em milissegundos, `let timer`):
 
 ## ⚠️ Aviso Importante
 1. **Use com responsabilidade.**
