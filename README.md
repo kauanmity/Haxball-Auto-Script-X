@@ -33,13 +33,13 @@
    - [Arquivo](https://raw.githubusercontent.com/kauanmity/Haxball-Auto-Script-X/refs/heads/main/index.js) 
 
 ## 🎮 Como Usar
-# Ativação
+**Ativação**
 1. *Mantenha a tecla* **Z** *pressionada para ativar os chutes automáticos*
 
-# Desativação
+**Desativação**
 2. *Solte* **Z** *para parar os chutes*
 
-# Personalização
+**Personalização**
 3. Ajuste o intervalo no código (valor em milissegundos, `let timer`):
 
 ## ⚠️ Aviso Importante
