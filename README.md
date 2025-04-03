@@ -43,6 +43,6 @@
 3. Ajuste o intervalo no código (valor em milissegundos, `let timer`):
 
 ## ⚠️ Aviso Importante
-# **Use com responsabilidade.**
-# **Pode violar as regras de alguns servidores.**
-# **Recomendado apenas para uso em ambientes privados.**
+1. **Use com responsabilidade.**
+2. **Pode violar as regras de alguns servidores.**
+3. **Recomendado apenas para uso em ambientes privados.**
